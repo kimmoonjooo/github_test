@@ -22,9 +22,9 @@
 ~~중간선~~
 
 
----
+```
 def print( ):
    amoondjosjd
   
----
+```
   
